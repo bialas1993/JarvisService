@@ -1,0 +1,18 @@
+{
+  "name": "jarvis",
+  "version": "0.0.1",
+  "description": "Jarvis interface to magic mirror",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bialas1993/JarvisService.git"
+  },
+  "author": "Dawid Biały",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bialas1993/JarvisService/issues"
+  }
+}
