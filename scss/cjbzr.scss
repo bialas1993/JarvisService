@@ -14,6 +14,8 @@ $colour7: rgba(2,255,255,0.7);
 $colour8: rgba(2,255,255,0.8);
 $colour9: rgba(2,255,255,0.9);
 
+$cwhite:  rgba(255, 255, 255, 1);
+
 $size8: 18px;
 $size7: 16px;
 $size6: 14px;
@@ -29,7 +31,7 @@ $size0_1: 1px;
 
 body {
   background: black;
-  color: $cprimary;
+  color: $cwhite;
 }
 
 .core {
